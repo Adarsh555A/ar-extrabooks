@@ -1,0 +1,5 @@
+1. git add .
+2. git commit -m "anything type"
+3. git remote add origin https://github.com/Adarsh555A/ar-extbook.git
+   git branch -M main
+   git push -u origin main
